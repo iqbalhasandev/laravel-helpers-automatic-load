@@ -11,7 +11,7 @@ Laravel Helpers Automatic Load
 - Then Go To app/Providers/AppServiceProvider.php then paste those line code
 
 ```
-/**
+  /**
    * Register any application services.
    *
    * @return void
@@ -20,6 +20,9 @@ Laravel Helpers Automatic Load
   {
       $this->loadHelpers();
   }
+  
+  
+  
   /**
    * Load helpers all helpers form app/Helpers.
    */
