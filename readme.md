@@ -1,6 +1,6 @@
 ## About <a href="javascript:void();" target="_blank">Laravel Helpers Automatic Load</a>
 
-Laravel Helpers Automatic Load
+Laravel Helpers Automatic Loading System
 
 ## Doc:
 
